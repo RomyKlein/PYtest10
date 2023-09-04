@@ -1,0 +1,7 @@
+n = 10
+a=2
+i = 2
+while a < n:
+    print (a)
+    print (end=" ")
+    a = a*i
